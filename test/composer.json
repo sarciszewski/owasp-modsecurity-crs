@@ -1,0 +1,6 @@
+{
+  "name": "owasp/modsecurity-crs-test",
+  "require-dev": {
+    "phpunit/phpunit": "^4|^5"
+  }
+}

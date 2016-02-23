@@ -3,6 +3,10 @@
 == Report Bugs/Issues to GitHub Issues Tracker ==
 * https://github.com/SpiderLabs/owasp-modsecurity-crs/issues
 
+== Version 2.2.10 - 02/23/2016 ==
+
+Include a unit testing suite (via phpunit).
+
 == Version 2.2.9 - 09/30/2013 ==
 
 Security Fixes:
